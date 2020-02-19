@@ -21,8 +21,7 @@ To install the project on your local machine, clone this repository by running:
 `git clone https://github.com/AlManea/Identify-Arvato-Customer-Segments.git`
 
 ### 4. Results:
-A details summary of the results of this project can be found in this blog post:
-https://medium.com/@abdulrahmanalmana/where-should-you-focus-your-marketing-efforts-369e96c479c7
+A details summary of the results of this project can be found in <a href=https://medium.com/@abdulrahmanalmana/where-should-you-focus-your-marketing-efforts-369e96c479c7>this</a> blog post
 
 ### 5. Files Descriptions:
 Below is a short description of the main files in this repository:
